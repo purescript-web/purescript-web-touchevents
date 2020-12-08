@@ -15,6 +15,6 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-web-uievents": "^2.0.0"
+    "purescript-web-uievents": "master"
   }
 }
