@@ -1,33 +1,33 @@
 "use strict";
 
-exports.identifier = function (t) {
+export function identifier(t) {
   return t.identifier;
-};
+}
 
-exports.screenX = function (t) {
+export function screenX(t) {
   return t.screenX;
-};
+}
 
-exports.screenY = function (t) {
+export function screenY(t) {
   return t.screenY;
-};
+}
 
-exports.clientX = function (t) {
+export function clientX(t) {
   return t.clientX;
-};
+}
 
-exports.clientY = function (t) {
+export function clientY(t) {
   return t.clientY;
-};
+}
 
-exports.pageX = function (t) {
+export function pageX(t) {
   return t.pageX;
-};
+}
 
-exports.pageY = function (t) {
+export function pageY(t) {
   return t.pageY;
-};
+}
 
-exports.target = function (t) {
+export function target(t) {
   return t.target;
-};
+}
