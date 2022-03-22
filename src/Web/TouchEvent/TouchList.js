@@ -1,5 +1,3 @@
-"use strict";
-
 export function length(l) {
   return l.length;
 }

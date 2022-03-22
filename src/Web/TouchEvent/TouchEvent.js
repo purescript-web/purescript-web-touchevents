@@ -1,5 +1,3 @@
-"use strict";
-
 export function touches(e) {
   return e.touches;
 }

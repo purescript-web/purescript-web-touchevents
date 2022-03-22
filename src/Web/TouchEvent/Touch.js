@@ -1,5 +1,3 @@
-"use strict";
-
 export function identifier(t) {
   return t.identifier;
 }
