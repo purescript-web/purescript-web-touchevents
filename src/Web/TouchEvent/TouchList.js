@@ -1,9 +1,9 @@
 "use strict";
 
-exports.length = function (l) {
+export function length(l) {
   return l.length;
-};
+}
 
-exports._item = function (i, l) {
+export function _item(i, l) {
   return l.item(i);
-};
+}
