@@ -1,0 +1,19 @@
+package:
+  name: web-touchevents
+  dependencies:
+    - functions: ">=6.0.0 <7.0.0"
+    - maybe: ">=6.0.0 <7.0.0"
+    - nullable: ">=6.0.0 <7.0.0"
+    - prelude: ">=6.0.0 <7.0.0"
+    - unsafe-coerce: ">=6.0.0 <7.0.0"
+    - web-events: ">=4.0.0 <5.0.0"
+    - web-uievents: ">=4.0.0 <6.0.0"
+  publish:
+    version: 4.0.1
+    license: MIT
+    location:
+      githubOwner: purescript-web
+      githubRepo: purescript-web-touchevents
+workspace:
+  packageSet:
+    registry: 81.4.0
