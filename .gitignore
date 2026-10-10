@@ -1,8 +1,7 @@
 /.*
 !/.gitignore
-!/.eslintrc.json
 !/.github/
-package-lock.json
+!/.oxfmtrc.json
 /bower_components/
 /node_modules/
 /output/
